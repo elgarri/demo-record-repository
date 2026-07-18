@@ -18,14 +18,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: NEH grant books
+title: demo record repository
 # agline, a short phrase that will appear throughout the site in the top banner
-tagline: NEH grant books 
+tagline: demo record repository
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Books supported by NEH grants. Data published by National Endowment for the Humanities.""
+description: "Demo record repository. Data published by National Endowment for the Humanities.""
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: NEH; grants; books; humanities
+keywords: demo; records; repository; humanities
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: elgarri
 
@@ -34,7 +34,7 @@ author: elgarri
 #
 # Set the metadata for your collection (the name of the CSV file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: NEH-books
+metadata: demo-metadata
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
